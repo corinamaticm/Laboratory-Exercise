@@ -1,0 +1,194 @@
+body{
+    margin: 0;
+    padding: auto;
+    background-image: linear-gradient(#FFFFFF, #BEE7E8);
+}
+#header{
+    height: 100px;
+    background-color: #1C0F13;
+}
+#header p{
+    color: #E2E2E2;
+    font-size: 50px;
+    font-family: Jost;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-left: 50px;
+}
+#login{
+    position: absolute;
+    top: 10px;
+    right: 150px;
+}
+#row1 label{
+    color: #E2E2E2;
+    font-size: 15px;
+    font-family: Arimo;
+    font-weight: bold;
+}
+#row2 input{
+    height: 30px;
+    outline: none;
+}
+#txt1, #btn1{
+    padding-bottom: 25px;
+    padding-right: 20px;
+}
+#txt2 input{
+    margin-bottom: 5px;
+}
+#txt2 label{
+    color: #E2E2E2;
+    font-size: 13px;
+    font-family: Arimo;
+    font-weight: bold;
+}
+#btn1 input{
+    width: 55px;
+    background-color: #6E7E85;
+    color: #E2E2E2;
+    font-size: 13px;
+    font-family: Arimo;
+    font-weight: bold;
+    border: 1px solid #B7CECE;
+    margin-left: 10px;
+    cursor: pointer;
+}
+#btn1 input:hover{
+    background-color: #BBBAC6;
+}
+#register{
+    width: 40%;
+    position: absolute;
+    right: 0px;
+}
+#register h1{
+    color: #1C0F13;
+    font-size: 50px;
+    font-family: Jost;
+    font-weight: bold;
+}
+#register h2{
+    color: #6E7E85;
+    font-size: 30px;
+    font-family: Arimo;
+    font-weight: bold;
+    margin-top: -20px;
+}
+#table2 input[type="text"], #table2 input[type="password"]{
+    border: 1px solid #B7CECE;
+    font-size: 25px;
+    font-family: Arimo;
+    height: 45px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 5px;
+    outline: none;
+}
+#row3 input{
+    width: 270px;
+}
+#row4 input, #row5 input{
+    width: 545px;
+}
+#row6 label, #row8 label{
+    color: #6E7E85;
+    font-size: 25px;
+    font-family: Arimo;
+    font-weight: bold;
+}
+#day{
+    color: #1C0F13;
+    font-family: Arimo;
+    font-weight: bold;
+    font-size: 20px;
+    height: 50px;
+    width: 60px;
+    border: 1px solid #B7CECE;
+    border-radius: 5px;
+    outline: none;
+}
+#month{
+    color: #1C0F13;
+    font-family: Arimo;
+    font-weight: bold;
+    font-size: 20px;
+    height: 50px;
+    width: 165px;
+    border: 1px solid #B7CECE;
+    border-radius: 5px;
+    margin-left: 5px;
+    outline: none;
+}
+#year{
+    color: #1C0F13;
+    font-family: Arimo;
+    font-weight: bold;
+    font-size: 20px;
+    height: 50px;
+    width: 80px;
+    border: 1px solid #B7CECE;
+    border-radius: 5px;
+    margin-left: 5px;
+    outline: none;
+}
+#icon{
+    color:#1C0F13;
+    font-size: 20px;
+    margin-left: 10px;
+}
+#icon:hover{
+    color:#6E7E85;
+}
+#row9 span{
+    font-family: Arimo;
+    font-weight: bold;
+    font-size: 20px;
+}
+#row10 p, #text2 p{
+    color:#594157;
+    font-family: Arimo;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: justify;
+    padding-left: 0px;
+}
+#text1{
+    width: 410px;
+    margin-top: -10px;
+}
+#btn{
+    height: 55px;
+    width: 285px;
+    background-color:#1C0F13;
+    color: #E2E2E2;
+    font-family: Jost;
+    font-weight: bold;
+    font-size: 30px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    outline: none;
+}
+#btn:hover{
+    background-color:#6E7E85;
+}
+#container{
+    width: 60%;
+    position: absolute;
+    left: 0px;
+}
+#container p{
+    color:#1C0F13;
+    font-family: Arimo;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: justify;
+}
+#container #text{
+    width: 610px;
+}
+img{
+    height: 550px;
+    margin-left: 150px;
+}
